@@ -63,4 +63,8 @@ public class Main {
 		System.out.println("New= " + sb);
 	}
 
+	public static void testingFeatureBranch2() {
+		System.out.println("Testing feature branch 2");
+	}
+
 }
